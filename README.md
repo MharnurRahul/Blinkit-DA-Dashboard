@@ -9,6 +9,8 @@ This is a Power BI dashboard I created to analyze **sales performance for Blinki
 - **Item Type Breakdown**: Fruits, Snacks, Dairy, Household products, and more.  
 - **Sales Trends Over the Years**: Covers data from 2012 to 2022.  
 - **Outlet Analysis**: Compares performance of different outlet sizes and types (Tier 1, Tier 2, Tier 3).
-- ## 📷 Screenshot
+-## 📷 Screenshot  
+![Blinkit Dashboard](https://raw.githubusercontent.com/your-username/Blinkit-Dashboard/main/Screenshot.png)
+
   
   
