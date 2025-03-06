@@ -20,5 +20,5 @@ This is a Power BI dashboard I created to analyze **sales performance for Blinki
 - ## 📩 Contact  
  If you have any questions or suggestions, feel free to reach out:  
   📧 **Email:** [rahulmharnur07@gmail.com](mailto:rahulmharnur07@gmail.com)   
-🔗 **LinkedIn:** [www.linkedin.com/in/rahul-mharnur01](https://www.linkedin.com/in/rahulmharnur/)
+🔗 **LinkedIn:** [www.linkedin.com/in/rahulmharnur](https://www.linkedin.com/in/rahulmharnur/)
   
