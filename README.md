@@ -16,7 +16,7 @@ This is a Power BI dashboard I created to analyze **sales performance for Blinki
 - **Power BI** – For data visualization.  
 - **DAX & Power Query** – For data transformation and calculations.  
 - **Excel / SQL** – Used as the data source.
-- 
+
 - ## 📩 Contact  
  If you have any questions or suggestions, feel free to reach out:  
   📧 **Email:** [rahulmharnur07@gmail.com](mailto:rahulmharnur07@gmail.com)   
